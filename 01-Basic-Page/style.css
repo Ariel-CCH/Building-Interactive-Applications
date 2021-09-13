@@ -1,7 +1,7 @@
 body{
     font-family: 'Urbanist', sans-serif;
 }
-#image{
+.image{
     height:150px;
     overflow: hidden;
     margin:0;
